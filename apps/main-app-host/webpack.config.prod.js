@@ -26,9 +26,9 @@ const prodConfig = {
    * ]
    */
   remotes: [
-    ['shop', '//localhost:4201/'],
-    ['cart', '//localhost:4202/'],
-    ['about', '//localhost:4203/'],
+    ['shop', 'http://localhost:3000/shop'],
+    ['cart', 'http://localhost:3000/cart'],
+    ['about', 'http://localhost:3000/about'],
   ],
 };
 
